@@ -1,1 +1,1 @@
-# cuFastTT
+# cuFastTensorTrain
